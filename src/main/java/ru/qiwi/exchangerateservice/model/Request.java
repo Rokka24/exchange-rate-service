@@ -7,7 +7,6 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class Request {
-
     private String code;
     private String date;
 }
