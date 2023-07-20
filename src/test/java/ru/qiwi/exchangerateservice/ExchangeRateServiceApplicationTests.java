@@ -4,7 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import ru.qiwi.exchangerateservice.model.Request;
 import ru.qiwi.exchangerateservice.parser.ResponseBodyParser;
-import ru.qiwi.exchangerateservice.sevice.ExchangeService;
+import ru.qiwi.exchangerateservice.service.ExchangeService;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 

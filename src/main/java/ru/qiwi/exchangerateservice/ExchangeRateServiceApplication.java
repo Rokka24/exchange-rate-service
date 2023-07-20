@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import ru.qiwi.exchangerateservice.model.Request;
 import ru.qiwi.exchangerateservice.parser.ResponseBodyParser;
-import ru.qiwi.exchangerateservice.sevice.ExchangeService;
+import ru.qiwi.exchangerateservice.service.ExchangeService;
 
 @SpringBootApplication
 public class ExchangeRateServiceApplication {

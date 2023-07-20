@@ -1,4 +1,4 @@
-package ru.qiwi.exchangerateservice.sevice;
+package ru.qiwi.exchangerateservice.service;
 
 
 import lombok.RequiredArgsConstructor;
